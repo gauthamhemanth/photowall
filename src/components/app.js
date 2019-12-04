@@ -16,7 +16,7 @@ class App extends React.Component {
                     'id': 2,
                     'description': 'Cat',
                     'imgurl':'https://homepages.cae.wisc.edu/~ece533/images/cat.png'
-                },
+                }, 
                 {
                     'id': 3,
                     'description': 'Fruits',
